@@ -588,12 +588,10 @@ attractions
 attractive
 attribute
 attributes
-au
 auburn
 auckland
 auction
 auctions
-aud
 audi
 audience
 audio
@@ -621,7 +619,6 @@ automobile
 automobiles
 automotive
 autos
-av
 availability
 available
 avatar
@@ -745,7 +742,6 @@ bbc
 bbs
 bbw
 bc
-bd
 bdsm
 be
 beach
@@ -895,8 +891,6 @@ bits
 biz
 bizarre
 bizrate
-bk
-bl
 black
 blackberry
 blackjack
@@ -1307,15 +1301,12 @@ causing
 caution
 cave
 cayman
-cb
 cbs
-cc
 ccd
 cd
 cdna
 cds
 cdt
-ce
 cedar
 ceiling
 celebrate
@@ -1350,10 +1341,7 @@ certificates
 certification
 certified
 cest
-cet
 cf
-cfr
-cg
 cgi
 ch
 chain
@@ -1451,7 +1439,6 @@ china
 chinese
 chip
 chips
-cho
 chocolate
 choice
 choices
@@ -1475,7 +1462,6 @@ chubby
 chuck
 church
 churches
-ci
 cia
 cialis
 ciao
@@ -1484,8 +1470,6 @@ cigarettes
 cincinnati
 cinema
 cingular
-cio
-cir
 circle
 circles
 circuit
@@ -1509,8 +1493,6 @@ civic
 civil
 civilian
 civilization
-cj
-cl
 claim
 claimed
 claims
@@ -1576,9 +1558,6 @@ club
 clubs
 cluster
 clusters
-cm
-cms
-cn
 cnet
 cnetcom
 cnn
@@ -2032,7 +2011,6 @@ cowboy
 cox
 cp
 cpu
-cr
 crack
 cradle
 craft
@@ -2089,7 +2067,6 @@ cs
 css
 cst
 ct
-cu
 cuba
 cube
 cubic
@@ -2372,7 +2349,6 @@ dialogue
 diameter
 diamond
 diamonds
-diane
 diary
 dice
 dick
@@ -2574,8 +2550,6 @@ downtown
 dozen
 dozens
 dp
-dpi
-dr
 draft
 drag
 dragon
@@ -2638,10 +2612,8 @@ dust
 dutch
 duties
 duty
-dv
 dvd
 dvds
-dx
 dying
 dynamic
 dynamics
@@ -2858,7 +2830,6 @@ environmental
 environments
 enzyme
 eos
-ep
 epa
 epic
 epinions
@@ -2866,7 +2837,6 @@ epinionscom
 episode
 episodes
 epson
-eq
 equal
 equality
 equally
@@ -3151,7 +3121,6 @@ fc
 fcc
 fd
 fda
-fe
 fear
 fears
 feat
@@ -3191,9 +3160,6 @@ fetish
 fever
 few
 fewer
-ff
-fg
-fi
 fiber
 fibre
 fiction
@@ -3325,7 +3291,6 @@ fly
 flyer
 flying
 fm
-fo
 foam
 focal
 focus
@@ -3406,7 +3371,6 @@ fountain
 four
 fourth
 fox
-fp
 fr
 fraction
 fragrance
@@ -3814,9 +3778,6 @@ hay
 hazard
 hazardous
 hazards
-hb
-hc
-hd
 hdtv
 he
 head
@@ -3880,7 +3841,6 @@ heroes
 herself
 hewlett
 hey
-hh
 hi
 hidden
 hide
@@ -4424,10 +4384,6 @@ jewellery
 jewelry
 jewish
 jews
-jill
-jim
-jo
-joan
 job
 jobs
 joe
@@ -4514,7 +4470,6 @@ kitchen
 kits
 kitty
 klein
-km
 knee
 knew
 knife
@@ -5059,9 +5014,7 @@ meetings
 meets
 meetup
 mega
-mel
 melbourne
-mem
 member
 members
 membership
@@ -5206,9 +5159,6 @@ mixed
 mixer
 mixing
 mixture
-mlb
-mls
-mo
 mobile
 mobiles
 mobility
@@ -5312,22 +5262,12 @@ movies
 moving
 mozambique
 mozilla
-mp
-mpeg
-mpegs
 mpg
 mph
 mr
 mrs
 ms
 msg
-msgid
-msgstr
-msie
-msn
-mt
-mtv
-mu
 much
 mud
 mug
@@ -5355,9 +5295,6 @@ must
 mustang
 mutual
 muze
-mv
-mw
-mx
 my
 myanmar
 myers
@@ -5414,7 +5351,6 @@ nearby
 nearest
 nearly
 nebraska
-nec
 necessarily
 necessary
 necessity
@@ -5458,7 +5394,7 @@ newfoundland
 newly
 newport
 news
-I
+i
 newscom
 newsletter
 newsletters
@@ -5533,7 +5469,6 @@ notify
 notion
 notre
 nottingham
-nov
 novel
 novels
 novelty
@@ -5562,7 +5497,6 @@ nutritional
 nuts
 nutten
 nvidia
-ny
 nyc
 nylon
 oak
@@ -5571,7 +5505,6 @@ oaks
 oasis
 obesity
 obituaries
-obj
 object
 objective
 objectives
@@ -5588,7 +5521,6 @@ obtained
 obtaining
 obvious
 obviously
-oc
 occasion
 occasional
 occasionally
@@ -5654,7 +5586,6 @@ online
 only
 ontario
 onto
-oo
 ooo
 oops
 op
@@ -5732,7 +5663,6 @@ other
 others
 otherwise
 ottawa
-ou
 ought
 our
 ours
@@ -5771,7 +5701,6 @@ owns
 oxford
 oxide
 oxygen
-oz
 ozone
 pa
 pac
@@ -5867,7 +5796,6 @@ partnership
 partnerships
 parts
 party
-pas
 paso
 pass
 passage
@@ -5912,11 +5840,9 @@ paypal
 payroll
 pays
 pb
-pc
 pda
 pdas
 pdf
-pdt
 pe
 peace
 peaceful
@@ -5999,9 +5925,6 @@ petite
 petition
 petroleum
 pets
-pf
-pg
-pgp
 ph
 phantom
 pharmaceutical
@@ -6032,7 +5955,6 @@ photographs
 photography
 photos
 photoshop
-php
 phpbb
 phrase
 phrases
@@ -6085,9 +6007,6 @@ pix
 pixel
 pixels
 pizza
-pj
-pk
-pl
 place
 placed
 placement
@@ -6127,7 +6046,6 @@ playlist
 plays
 playstation
 plaza
-plc
 pleasant
 please
 pleased
@@ -6143,10 +6061,6 @@ plumbing
 plus
 plymouth
 pm
-pmc
-pmid
-pn
-po
 pocket
 pockets
 pod
@@ -6259,9 +6173,6 @@ powerpoint
 powers
 powerseller
 pp
-ppc
-ppm
-pr
 practical
 practice
 practices
@@ -6544,8 +6455,6 @@ puzzles
 pvc
 python
 qatar
-qc
-qld
 qt
 qty
 quad
@@ -7002,13 +6911,8 @@ revolutionary
 reward
 rewards
 reynolds
-rf
-rfc
-rg
-rh
 rhode
 rhythm
-ri
 ribbon
 rica
 rice
@@ -7032,7 +6936,6 @@ ring
 rings
 ringtone
 ringtones
-rio
 rip
 ripe
 rise
@@ -7066,7 +6969,6 @@ rolled
 roller
 rolling
 rolls
-rom
 romance
 romania
 romantic
@@ -7117,11 +7019,6 @@ runs
 runtime
 rural
 rush
-russia
-russian
-rv
-rw
-rwanda
 sacramento
 sacred
 sacrifice
@@ -7184,9 +7081,6 @@ saw
 say
 saying
 says
-sb
-sbjct
-sc
 scale
 scales
 scan
@@ -7330,15 +7224,12 @@ sensors
 sent
 sentence
 sentences
-seo
-sep
 separate
 separated
 separately
 separation
 sept
 september
-seq
 sequence
 sequences
 serbia
@@ -7377,7 +7268,6 @@ sexuality
 sexually
 sexy
 sf
-sg
 sh
 shade
 shades
@@ -7582,18 +7472,13 @@ smithsonian
 smoke
 smoking
 smooth
-sms
-smtp
-sn
 snake
 snap
 snapshot
 snow
 snowboard
 so
-soa
 soap
-soc
 soccer
 social
 societies
@@ -7662,7 +7547,6 @@ southern
 southwest
 soviet
 sox
-sp
 spa
 space
 spaces
@@ -7682,7 +7566,6 @@ speakers
 speaking
 speaks
 spears
-spec
 special
 specialist
 specialists
@@ -7701,7 +7584,6 @@ specifics
 specified
 specifies
 specify
-specs
 spectacular
 spectrum
 speech
@@ -7749,8 +7631,6 @@ springs
 sprint
 spy
 spyware
-sq
-sql
 squad
 square
 squirt
@@ -7908,7 +7788,6 @@ style
 styles
 stylish
 stylus
-su
 sub
 subaru
 subcommittee
@@ -8325,7 +8204,6 @@ til
 tile
 tiles
 till
-tim
 timber
 time
 timeline
@@ -8557,8 +8435,6 @@ tsunami
 tub
 tube
 tubes
-tucson
-tue
 tuesday
 tuition
 tulsa
@@ -8581,7 +8457,6 @@ turtle
 tutorial
 tutorials
 tv
-tvcom
 tvs
 twelve
 twenty
@@ -8593,7 +8468,6 @@ twins
 twist
 twisted
 two
-tx
 ty
 type
 types
@@ -8604,20 +8478,17 @@ uganda
 ugly
 uh
 ukraine
-ul
 ultimate
 ultimately
 ultra
 ultram
 um
-un
 una
 unable
 unauthorized
 unavailable
 uncertainty
 uncle
-und
 undefined
 under
 undergraduate
@@ -8630,7 +8501,6 @@ undertake
 undertaken
 underwear
 undo
-une
 unemployment
 unexpected
 unfortunately
@@ -8666,7 +8536,6 @@ unto
 unusual
 unwrap
 up
-upc
 upcoming
 update
 updated
@@ -8687,7 +8556,6 @@ ur
 urban
 urge
 urgent
-uri
 url
 urls
 uruguay
@@ -8705,14 +8573,11 @@ user
 username
 users
 uses
-usgs
 using
 usps
-usr
 usual
 usually
 utah
-utc
 utilities
 utility
 utilization
@@ -8724,7 +8589,6 @@ vacations
 vaccine
 vacuum
 vagina
-val
 valentine
 valid
 validation
@@ -8778,7 +8642,6 @@ venture
 ventures
 venue
 venues
-ver
 verbal
 verde
 verification
@@ -8890,8 +8753,6 @@ voyuer
 vp
 vpn
 vs
-vsnet
-vt
 vulnerability
 vulnerable
 wage
@@ -8902,7 +8763,6 @@ wait
 waiting
 waiver
 wake
-wal
 wales
 walk
 walked
@@ -8915,8 +8775,6 @@ wallpaper
 wallpapers
 walls
 walnut
-walt
-wan
 wang
 wanna
 want
@@ -8958,7 +8816,6 @@ watershed
 watson
 watt
 watts
-wav
 wave
 waves
 wax
@@ -9137,8 +8994,6 @@ worthy
 would
 wound
 wow
-wp
-wr
 wrap
 wrapped
 wrapping
@@ -9161,7 +9016,6 @@ xerox
 xhtml
 xi
 xl
-xml
 xnxx
 xp
 ya
